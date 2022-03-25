@@ -16,7 +16,7 @@ public class DBC {
 		String password = "1111";
 
 		// Class.forName("oracle.jdbc.driver.OracleDriver");
-		// con = DriverManager.getConnection(url, user, password); 
+		// con = DriverManager.getConnection(url, user, password22); 
 		// try,catch 문으로 변환
 
 		try {
